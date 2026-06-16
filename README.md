@@ -111,7 +111,7 @@ intrusion-detection/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone (https://github.com/themadcoder23/AI-Driven-Intrusion-System.git)
 cd intrusion-detection
 ```
 
