@@ -199,8 +199,6 @@ TWILIO_SMS_FROM=+1XXXXXXXXXX
 TWILIO_SMS_TO=+91XXXXXXXXXX
 ```
 
-- ⚠️ Add .env to .gitignore.
-
 ### ▶️ Running the System
 
 - Always run from project root:
